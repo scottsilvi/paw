@@ -11,3 +11,10 @@
 
 3. Launch Google Chrome
   *Navigate to localhost:3000
+
+#Skype Instructions
+
+1.  Launch Skype from desktop
+2.  Click on "Skype Name" on the sign in screen
+3.  Select your name from the username dropdown list
+4.  Enter your password (puppies1).
