@@ -18,3 +18,7 @@
 2.  Click on "Skype Name" on the sign in screen
 3.  Select your name from the username dropdown list
 4.  Enter your password (puppies1).
+
+###Dev Tools
+
+	* press f12 inside of google chrome
