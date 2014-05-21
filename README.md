@@ -6,7 +6,7 @@
 	** If there are any changes to be synchronized, they will appear next to the Sync button in the upper-right
 2. Launch Console Shortcut
 	*Type (command is case sensitive): 
-		python -m SimpleHTTPServer 3000
+		python -m http.server 3000
 	*Press enter
 
 3. Launch Google Chrome
