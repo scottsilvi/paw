@@ -22,3 +22,14 @@
 ###Dev Tools
 
 	* press f12 inside of google chrome
+
+###ToDo 
+
+####Nested Gridsystem
+
+1.  Build a grid with two columns, 1/4 and 3/4. In the 3/4 column, build a nested grid that is two columns, 1/2 & 1/2 width
+2.  Build a grid with three columns, 1/4, 1/2, and 1/4. In the 1/2, build a grid that has 4 equal columns
+
+####Typography
+
+Move to the typography section & start building that in the typography page.
