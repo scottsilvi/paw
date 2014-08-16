@@ -16,3 +16,7 @@ body {
 .gridsystem .row {
 	margin-bottom: 36px;
 }
+
+.gridsystem .row .row {
+	margin-bottom: 0;
+}
