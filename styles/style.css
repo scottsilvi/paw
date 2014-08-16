@@ -1,6 +1,9 @@
 body {
 	background-color: #eee;
 }
+body > section {
+	padding: 20px;
+}
 .header {
 	height: 52px;
 	margin-bottom: 20px;
